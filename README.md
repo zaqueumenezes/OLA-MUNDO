@@ -3,6 +3,6 @@
  primeiro repositorio de git e github
 
 
-Respositorio criado em uma aula com o professor Gustavo Guanabara. gratidão
+ Respositorio criado em uma aula com o professor Gustavo Guanabara. gratidão
 
-alteração remota impressionante
+ alteração remota impressionante
