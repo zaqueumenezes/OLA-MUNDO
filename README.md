@@ -6,3 +6,5 @@
  Respositorio criado em uma aula com o professor Gustavo Guanabara. gratidão
 
  alteração remota impressionante
+
+ muito bom aprender obrigado
